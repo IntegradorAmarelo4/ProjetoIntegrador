@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    width: 80%;
+    height: 60%;
+    margin: 7% 10%;
+    padding: 2%;
+    border-top: solid 10px #a2cff0;
+    border-left: solid 10px #fbbfec;
+    border-bottom: solid 10px #a2cff0;
+    border-right: solid 10px #fbbfec;
+    /* background-color: yellow; */
+}
+
+p{
+    text-align: justify;
+}
+
+.subtitulo-politica{
+    font-size: 150%;
+}
+
+#titulo-politica{
+    font-size: 200%;
+    text-align: center;
+    margin-bottom: 3%;
+}
